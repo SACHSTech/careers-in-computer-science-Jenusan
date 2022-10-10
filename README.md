@@ -34,6 +34,16 @@
 ### **_First year courses_**
 Your course load should be balanced between Fall and Winter Terms. A full course load is typically 5 courses (15 units per term) but depending on your schedule, you may consider taking a reduced course load of 4 courses per term (12 units per term).
 
+* Discrete Mathematics for Computer Science (COMPSCI 1DM3)
+* Introduction to Computational Thinking (COMPSCI 1JC3)
+* Introduction to Programming (COMPSCI 1MD3)
+* Computer Science Practice and Experience: Development Basics (COMPSCI 1XC3)
+* Computer Science Practice and Experience: Introduction to Software Design Using Web Programming (COMPSCI 1XD3)
+* Linear Algebra I (MATH 1B03)
+* Engineering Mathematics I (MATH 1ZA3)
+* Engineering Mathematics II-A (MATH 1ZB3)
+* 6 units of electives
+
 ### **_Length_**
 McMasters computer science diploma takes 4 years to acquire, and usually will not require any other graduate courses to enter the workforce 
 
