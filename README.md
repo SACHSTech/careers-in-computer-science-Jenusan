@@ -135,7 +135,7 @@ Experience working on a physics-based game project, source control systems such 
 Understanding UX design process and experience working with UX design team and/or development team
 Located within the GTA, or surrounding areas, with the ability to commute to office on occasion
 Reliable home internet connection, workspace conducive to productivity and adequate technology for VOIP communications
-Excellent communication skills
+Excellent communication skills 
 
 |   Works cited   |
 |:-----------------:|
@@ -149,4 +149,4 @@ Interactive, EDge. “Computer Science - McMaster University - StudyinCanada.com
 |“Let's Get to Work.” Workopolis, https://www.workopolis.com/en. |
 |“R/Gaming - Here Are Most of Well Known Video Game Studio Logos in the Gaming Industry, I Gathered.” Reddit, https://www.reddit.com/r/gaming/comments/dez6d1/here_are_most_of_well_known_video_game_studio/. |
 |“Video Game Developer: Job Description.” Targetjobs, 15 Dec. 2021, https://targetjobs.co.uk/careers-advice/job-descriptions/video-game-developer-job-description. |
-|“What Is a Game Developer (and How Do I Become One)?” Coursera, https://www.coursera.org/articles/game-developer. |
+|“What Is a Game Developer (and How Do I Become One)?” Coursera, https://www.coursera.org/articles/game-developer.
